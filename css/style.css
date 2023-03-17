@@ -84,20 +84,30 @@ border:1px solid blue;
     text-align: center;
     border:1px solid blue;
 }
-.btn{
-    border-radius: 20px;
-    height: 30px;
-    width: 60px;
-    margin: 5px;
-    background-color: rgba(128, 128, 128, 0.579);
-}
-.btn:hover{
-    background-color: gray;
-}
-.input{
-    margin: 5px;
-}
-.form{
-    background-color: rgb(183, 181, 181);
+
+.back-F{
+    background-color: #4FABD3;
     display: inline-block;
+    width: 580px;
+    height: 340px;
+}
+.block-form{
+  margin-left: 110px;
+  margin-top: 30px;
+background-color: #FFFFFF;
+border: 8px solid #4EA1C5;
+border-radius: 2px;
+width: 340px;
+height: 240px;
+}
+.uptext-f{
+border-bottom: 1px solid #CFCFCF;
+background-color: #F5F7F8;
+color: #555555;
+height: 40px;
+text-align: center;
+}
+.text-u-f{
+    padding-top: 13px;
+    display: block;
 }
