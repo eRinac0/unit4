@@ -31,7 +31,6 @@
 .maindiv>div{
     display: inline-block;
     width: 150px;
-    
     font-size: 25px;
 }
 #header1{
@@ -85,4 +84,20 @@ border:1px solid blue;
     text-align: center;
     border:1px solid blue;
 }
-
+.btn{
+    border-radius: 20px;
+    height: 30px;
+    width: 60px;
+    margin: 5px;
+    background-color: rgba(128, 128, 128, 0.579);
+}
+.btn:hover{
+    background-color: gray;
+}
+.input{
+    margin: 5px;
+}
+.form{
+    background-color: rgb(183, 181, 181);
+    display: inline-block;
+}
