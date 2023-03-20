@@ -112,9 +112,37 @@ text-align: center;
     display: block;
 }
 .input{
+    margin-top: 20px;
     margin-left: 15px;
     width: 300px;
 }
-.input.input1{
+.input1{
     margin-top: 30px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 300px;
 }
+.button-f{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 12px;
+    margin-right: 17px;
+    
+}
+.text-in-f{
+    margin-left:-50px;
+    font-size: 14px;
+    color: #CFCFCF;
+}
+.btn-f1{
+border-radius: 20px;
+border: #CFCFCF;
+background-color: #CFCFCF;;
+height: 30px;
+width: 60px;
+}
+
+.btn-f1:hover{
+    border: #cfcfcfba;
+    background-color: #cfcfcfba;;
+    }
