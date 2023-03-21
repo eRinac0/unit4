@@ -112,7 +112,7 @@ text-align: center;
     display: block;
 }
 .input{
-    margin-top: 20px;
+    
     margin-left: 15px;
     width: 300px;
 }
@@ -124,25 +124,55 @@ text-align: center;
 }
 .button-f{
     display: flex;
-    justify-content: space-between;
     margin-left: 12px;
     margin-right: 17px;
     
 }
 .text-in-f{
-    margin-left:-50px;
+    margin-left:20px;
     font-size: 14px;
-    color: #CFCFCF;
+    color:#555555;
 }
 .btn-f1{
 border-radius: 20px;
-border: #CFCFCF;
-background-color: #CFCFCF;;
+border:#cfcfcf8c;
+background-color: #cfcfcf9b;
 height: 30px;
-width: 60px;
+width: 100%;
 }
 
 .btn-f1:hover{
     border: #cfcfcfba;
     background-color: #cfcfcfba;;
-    }
+}
+.container{
+    width: 1000px;
+    background-color:  #4EA1C5;
+}
+  
+  .card-title {
+    color: #555555;
+  }
+  
+  .card-body {
+    background-color: #FFFFFF;
+  }
+  
+  .form-control {
+    margin-bottom: 10px;
+  }
+  
+  .form-check-input {
+    margin-right: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #CFCFCF;
+    border: #CFCFCF;
+  }
+  
+  .btn-primary:hover {
+    background-color: #cfcfcfba;
+    border: #cfcfcfba;
+  }
+ 
