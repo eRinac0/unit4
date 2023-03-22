@@ -175,4 +175,8 @@ width: 100%;
     background-color: #cfcfcfba;
     border: #cfcfcfba;
   }
- 
+  .green-paragraph {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+  }
